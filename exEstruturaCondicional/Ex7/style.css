@@ -1,0 +1,53 @@
+.form {
+    width: 400px;
+    margin: 15% auto;
+    background-color: rgb(66, 66, 66);
+    display: block;    
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 5px;
+    color: seashell;
+    padding: 5px;
+    font-size: 1.5rem;
+  }
+
+  input{
+    border-radius: 5px;
+    outline: 0 ;
+    width: 80%;
+    height: 30px;
+  }
+  
+  .form h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form label {
+    display: block;
+    margin-bottom: 50px;
+  }
+  
+  
+  .form input:focus,
+  .form textarea:focus {
+    outline: none;
+    border-bottom: 1px solid #c21f1f;
+  }
+  
+  .enviar[type="submit"] {
+    background-color: #c21f1f;
+    color: rgb(255, 111, 111);
+    padding: 30px 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .form input[type="submit"]:hover {
+    background-color: #929292;
+     padding: 15px 30px;
+  }
