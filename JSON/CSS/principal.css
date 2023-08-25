@@ -1,0 +1,112 @@
+
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            margin: 0;
+            padding: 0;
+            background-color: #545454;
+        }
+
+        header {
+            background-color: #545454;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        h1 {
+            font-size: 50px;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            display: inline-flex;
+
+        }
+
+        .product-card {
+            display: inline-flex;
+            margin: 10px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .card {
+            width: 900px;
+            height: 500px;
+            background: #545454;
+            border-radius: 15px;
+            box-shadow: 1px 5px 60px 0px #232324;
+            margin: 20px;
+            display: inline-block;
+            margin-left: 18%;
+            border: 15px;
+            margin-top: 150px;
+        }
+
+        .card .card-border-top {
+            width: 60%;
+            height: 3%;
+            background: #5c6b65;
+            margin: auto;
+            border-radius: 0px 0px 15px 15px;
+        }
+
+        .card span {
+            font-weight: 600;
+            color: white;
+            text-align: right;
+            display: block;
+            padding-top: 10px;
+            font-size: 30px;
+            margin-right: 180px;
+            margin-top: 100px;
+        }
+
+        .card .job {
+            font-weight: 400;
+            color: white;
+            display: block;
+            text-align: right;
+            padding-top: 3px;
+            font-size: 12px;
+            margin-right: 180px;
+            margin-top: 20px;
+        }
+
+        .card .img {
+            width: 70px;
+            height: 80px;
+            background: #6b64f3;
+            border-radius: 1000px;
+            margin: 10px;
+            margin-top: 30px;
+            margin-left: 20px;
+        }
+
+        .card button {
+            padding: 8px 25px;
+            display: block;
+            margin: auto;
+            border-radius: 8px;
+            border: none;
+            margin-top: 30px;
+            background: #5c6b65;
+            color: white;
+            font-weight: 600;
+            margin-right: 180px;
+            margin-top: 10px;
+        }
+
+        .card button:hover {
+            background: #c8cccf;
+            cursor: pointer;
+        }
+    

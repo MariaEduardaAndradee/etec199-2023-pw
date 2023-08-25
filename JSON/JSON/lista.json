@@ -1,0 +1,103 @@
+[
+    
+    {
+    "id": 1,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/08/Pocket_Tee_Confused_Black-300x300.jpg" ,
+    "nome": "Camiseta Preta High",
+    "categoria": "Camisetas",
+    "preco": 79.99,
+    "cor": "Preta",
+    "tamanho": "M"
+    },
+
+    {
+    "id": 2,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/08/Tee_CellPhone_Navy-300x300.jpg" ,
+    "nome": "Camiseta Azul High",
+    "categoria": "Camisetas",
+    "preco": 79.99,
+    "cor": "Azul",
+    "tamanho": "M"
+    },
+
+    {
+    "id": 3,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/08/Tee_Wildstyle_Purple-300x300.jpg" ,
+    "nome": "Camiseta Roxa High",
+    "categoria": "Camisetas",
+    "preco": 79.99,
+    "cor": "Roxa",
+    "tamanho": "M"
+    },
+
+    {
+    "id": 4,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/08/Tee_Wildstyle_NightGreen-300x300.jpg" ,
+    "nome": "Camiseta Verde High",
+    "categoria": "Camisetas",
+    "preco": 79.99,
+    "cor": "Verde",
+    "tamanho": "M"
+    },
+
+    {
+    "id": 5,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/07/Cargo_Shorts_Oil_Blue-300x300.jpg" ,
+    "nome": "Bermuda Azul High",
+    "categoria": "Shorts",
+    "preco": 39.99,
+    "cor": "Azul",
+    "tamanho": "G"
+    },
+
+    {
+    "id": 6,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/07/Sweatshorts_Inflated_Black-300x300.jpg" ,
+    "nome": "Bermuda Preta High",
+    "categoria": "Shorts",
+    "preco": 34.99,
+    "cor": "Preta",
+    "tamanho": "42"
+    },    
+
+    {
+    "id": 7,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/08/Swim_Shorts_Bong_Green-300x300.jpg" ,
+    "nome": "Bermuda Verde High",
+    "categoria": "Shorts",
+    "preco": 39.99,
+    "cor": "Verde",
+    "tamanho": "Único"
+    },
+
+    {
+    "id": 8,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/07/Sweatshorts_Inflated_Coffee-300x300.jpg" ,
+    "nome": "Bermuda Marrom High",
+    "categoria": "Shorts",
+    "preco": 39.99,
+    "cor": "Marrom",
+    "tamanho": "Único"
+    },    
+
+    {
+    "id": 9,   
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/08/Hoodie_Logo_Sky_Blue-300x300.jpg" ,
+    "nome": "Moletom Azul",
+    "categoria": "Moletom",
+    "preco": 99.99,
+    "cor": "Azul",
+    "tamanho": "M"
+    },  
+
+    {
+    "id": 10,
+    "img": "https://cdn.highcompanybr.com/wp-content/uploads/2023/03/Hoodie_Logo_Black-300x300.jpg" ,
+    "nome": "Moletom Preto",
+    "categoria": "Moletom",
+    "preco": 99.99,
+    "cor": "Preto",
+    "tamanho": "M"
+    }
+
+]
