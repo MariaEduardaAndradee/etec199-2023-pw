@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inicio</title>
+    <style>
+        body {
+            background-color: #545454; /* Cinza */
+        }
+
+        .container {
+            text-align: center;
+            padding: 50px;
+        }
+
+        h4 {
+            color: white;
+            margin-top: 120px;
+        }
+
+        img {
+            margin-top: 70px;
+        }
+ 
+        .button {
+            display: block;
+            border-radius: 7px;
+            border: none;
+            background: #5c6b65;
+            color: rgb(255, 255, 255);
+            font-family: inherit;
+            text-align: center;
+            font-size: 18px;
+            box-shadow: 0px 14px 56px -11px #292a2c;
+            width: 500px;
+            padding: 1em;
+            transition: all 0.4s;
+            cursor: pointer;
+            margin-left: 31%;
+            margin-top: 30px;
+        }
+
+        .button span {
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            transition: 0.4s;
+        }
+
+        .button span:after {
+            content: 'for free';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: 0.7s;
+        }
+
+        .button:hover span {
+            padding-right: 3.55em;
+        }
+
+        .button:hover span:after {
+            opacity: 4;
+            right: 0;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="img/highLogo.png" alt="Imagem Inicial" height="300px" width="650px">
+        <h4> Vista sua personalidade com estilo, High para um Estilo Superior! </h4>
+        <button class="button" style="vertical-align:middle" onclick="window.location.href='http://localhost:2023/SESSAO/login.php'"> Confira Nossos Produtos </button></a>
+
+</body>
+</html>
